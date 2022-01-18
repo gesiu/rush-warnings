@@ -1,0 +1,14 @@
+{
+  "rushVersion": "5.59.2",
+  "pnpmVersion": "6.21.1",
+  "pnpmOptions": {
+    "strictPeerDependencies": true
+  },
+  "nodeSupportedVersionRange": ">=10.14.1",
+  "projects": [
+    {
+      "packageName": "project",
+      "projectFolder": "project"
+    }
+  ]
+}

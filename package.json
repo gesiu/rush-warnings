@@ -1,0 +1,21 @@
+{
+  "name": "rush-warnings",
+  "version": "1.0.0",
+  "description": "Demo of warnings in Rush",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node common/scripts/install-run-rush.js install",
+    "test": "node common/scripts/install-run-rush.js test",
+    "update": "node common/scripts/install-run-rush.js update"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gesiu/rush-warnings.git"
+  },
+  "author": "gesiu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gesiu/rush-warnings/issues"
+  },
+  "homepage": "https://github.com/gesiu/rush-warnings#readme"
+}
